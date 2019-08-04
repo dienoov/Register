@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="genderList">
+        <item>Pilih Jenis Kelamin</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+</resources>
